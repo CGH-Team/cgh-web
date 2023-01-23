@@ -1,6 +1,11 @@
-body {
+/* body {
     background: #3d3d3d
+} */
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2763910.gif");
 }
+
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Noto Sans TC', sans-serif;
     color: #fff;
