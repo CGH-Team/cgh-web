@@ -2,8 +2,9 @@
     background: #3d3d3d
 } */
 
-body {
-  background-image: url("https://wallpapercave.com/wp/wp2763910.gif");
+body{
+    background: radial-gradient(circle,#24246e,#06051f);
+    height: 100vh;
 }
 
 h1,h2,h3,h4,h5,h6{
