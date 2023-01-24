@@ -257,6 +257,11 @@ img{
         margin: 10px !important;
     }
     
+    .learn_img{
+        margin: auto;
+        padding: auto;
+       }
+    
     img{
         text-align: center;
         padding: auto;
