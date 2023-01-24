@@ -256,6 +256,12 @@ img{
     hr {
         margin: 10px !important;
     }
+    
+    img{
+        text-align: center;
+        padding: auto;
+        margin: auto;
+    }
 }
 
 /*features ends*/
