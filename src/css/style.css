@@ -6,6 +6,7 @@ body {
     background-image: url('https://wallpapercave.com/wp/wp2763910.gif');
     background-repeat: repeat;
     background-blend-mode:darken;
+    background-attachment: fixed;
 }
 
 h1,
